@@ -1,0 +1,8 @@
+C:\Users\victor.vansuit\Documents\csharpaulas\MeuProjeto\MeuProjeto\bin\Debug\MeuProjeto.exe.config
+C:\Users\victor.vansuit\Documents\csharpaulas\MeuProjeto\MeuProjeto\bin\Debug\MeuProjeto.exe
+C:\Users\victor.vansuit\Documents\csharpaulas\MeuProjeto\MeuProjeto\bin\Debug\MeuProjeto.pdb
+C:\Users\victor.vansuit\Documents\csharpaulas\MeuProjeto\MeuProjeto\obj\Debug\MeuProjeto.csproj.AssemblyReference.cache
+C:\Users\victor.vansuit\Documents\csharpaulas\MeuProjeto\MeuProjeto\obj\Debug\MeuProjeto.csproj.SuggestedBindingRedirects.cache
+C:\Users\victor.vansuit\Documents\csharpaulas\MeuProjeto\MeuProjeto\obj\Debug\MeuProjeto.csproj.CoreCompileInputs.cache
+C:\Users\victor.vansuit\Documents\csharpaulas\MeuProjeto\MeuProjeto\obj\Debug\MeuProjeto.exe
+C:\Users\victor.vansuit\Documents\csharpaulas\MeuProjeto\MeuProjeto\obj\Debug\MeuProjeto.pdb
