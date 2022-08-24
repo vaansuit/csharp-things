@@ -13,7 +13,7 @@ namespace MeuProjeto
             char letra = 'V'; //
             System.Console.WriteLine("Char " + letra);
             char charMin = char.MinValue;
-            char charMax = char.MaxValue;
+            char charMax = char.MaxValue; //Char também é um tipo de variável inteiro
             System.Console.WriteLine(charMin);
             System.Console.WriteLine(charMax);
 

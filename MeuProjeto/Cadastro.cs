@@ -22,11 +22,11 @@ namespace MeuProjeto
         public static void Executa()
         {
             Console.WriteLine("Bem vindo ao Bamerindos!");
-            Console.WriteLine("Informe seu nome: ");
+            Console.Write("Informe seu nome: ");
             string firstName = Console.ReadLine();
-            Console.WriteLine("Informe seu sobrenome: ");
+            Console.Write("Informe seu sobrenome: ");
             string lastName = Console.ReadLine();
-            Console.WriteLine("Informe sua idade: ");
+            Console.Write("Informe sua idade: ");
             byte age = byte.Parse(Console.ReadLine());
 
             Console.WriteLine("Olá, " + firstName + " " + lastName + ". Sua idade é: " + age + " anos.");

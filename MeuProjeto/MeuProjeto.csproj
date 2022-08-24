@@ -45,10 +45,23 @@
   <ItemGroup>
     <Compile Include="BemVindo.cs" />
     <Compile Include="Cadastro.cs" />
+    <Compile Include="Enumeradores.cs" />
+    <Compile Include="Enumeradores2.cs" />
+    <Compile Include="Estruturas.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TipoBooleano.cs" />
     <Compile Include="TipoNumerico.cs" />
     <Compile Include="TipoNumerico2.cs" />
+    <Compile Include="TipoNumerico3.cs" />
+    <Compile Include="TipoReferenci\BaseRepository.cs" />
+    <Compile Include="TipoReferenci\InterfaceRepository.cs" />
+    <Compile Include="TipoReferenci\PessoaJuridica.cs" />
+    <Compile Include="TipoReferenci\PessoaFisicaRepository.cs" />
+    <Compile Include="TipoReferenci\PessoaJuridicaRepository.cs" />
+    <Compile Include="TipoReferenci\Pessoa.cs" />
+    <Compile Include="TipoReferenci\PessoaFisica.cs" />
+    <Compile Include="TipoReferenci\TestaPessoas.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
